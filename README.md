@@ -3,7 +3,8 @@
 Information Systems student exploring the intersection of technology, digital products, and problem-solving.
 
 - 🎨 Mapping user experiences and designing digital product interfaces.
-- 💻 Putting software development concepts and programming logic into practice.
+- 💻 Putting software development concepts and programming logic to build digital solutions.
+- 📊 Exploring data analysis and business intelligence through data modeling and interactive dashboards.
 - 💼 Exploring agile methodologies and digital product management.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-ensenat-876960334)
