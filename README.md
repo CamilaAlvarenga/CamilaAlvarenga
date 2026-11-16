@@ -5,7 +5,7 @@ Information Systems student interested in UX/UI and Product Design, with a techn
 - 🎨 Mapping user experiences and designing digital product interfaces.
 - 💻 Putting software development concepts and programming logic to build digital solutions.
 - 📊 Developing skills in data analysis and business intelligence through data modeling and interactive dashboards.
-- 💼 Learning about agile methodologies and digital product management.\
+- 💼 Learning about agile methodologies and digital product management.
 - 🤖 Expanding my knowledge of Artificial Intelligence and learning to build practical solutions through AI-powered tools and automation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-ensenat-876960334)
